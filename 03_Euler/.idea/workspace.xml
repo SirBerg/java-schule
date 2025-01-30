@@ -21,8 +21,8 @@
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../db/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../db/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../db/mysql.docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../db/mysql.docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__project_template/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../__project_template/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__project_template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../__project_template/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../prog/cpp/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../prog/cpp/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../prog/cpp/.idea/cpp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../prog/cpp/.idea/cpp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../prog/cpp/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../prog/cpp/.idea/editor.xml" afterDir="false" />
@@ -71,7 +71,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Run",
+    "Application.Main.executor": "Profiler#1",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -103,11 +103,27 @@
       <updated>1737710353878</updated>
       <workItem from="1737710354981" duration="90000" />
       <workItem from="1737711788832" duration="99000" />
-      <workItem from="1738157859915" duration="136000" />
+      <workItem from="1738157997254" duration="2190000" />
+      <workItem from="1738241452133" duration="1209000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/blogic/src/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
